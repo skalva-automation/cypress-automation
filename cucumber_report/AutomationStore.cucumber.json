@@ -1,0 +1,692 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Automation test store UI validation",
+    "line": 2,
+    "id": "automation-test-store-ui-validation",
+    "tags": [
+      {
+        "name": "@store",
+        "line": 1
+      }
+    ],
+    "uri": "AutomationStore.feature",
+    "elements": [
+      {
+        "id": "automation-test-store-ui-validation;product-category-validation",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "Product category validation",
+        "tags": [
+          {
+            "name": "@store",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I am on Automation test store home page",
+            "result": {
+              "status": "passed",
+              "duration": 1769000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "I select \"Apparel & accessories\" from home page",
+            "result": {
+              "status": "passed",
+              "duration": 635000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "I have displayed with \"8\" products to select",
+            "result": {
+              "status": "passed",
+              "duration": 74000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "automation-test-store-ui-validation;product-category-validation",
+        "keyword": "Scenario",
+        "line": 14,
+        "name": "Product category validation",
+        "tags": [
+          {
+            "name": "@store",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I am on Automation test store home page",
+            "result": {
+              "status": "passed",
+              "duration": 521000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "I select \"Makeup\" from home page",
+            "result": {
+              "status": "passed",
+              "duration": 429000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "I have displayed with \"6\" products to select",
+            "result": {
+              "status": "passed",
+              "duration": 34000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "automation-test-store-ui-validation;product-category-validation",
+        "keyword": "Scenario",
+        "line": 15,
+        "name": "Product category validation",
+        "tags": [
+          {
+            "name": "@store",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I am on Automation test store home page",
+            "result": {
+              "status": "passed",
+              "duration": 510000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "I select \"Skincare\" from home page",
+            "result": {
+              "status": "passed",
+              "duration": 615000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "I have displayed with \"5\" products to select",
+            "result": {
+              "status": "passed",
+              "duration": 32000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "automation-test-store-ui-validation;product-category-validation",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "Product category validation",
+        "tags": [
+          {
+            "name": "@store",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I am on Automation test store home page",
+            "result": {
+              "status": "passed",
+              "duration": 481000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "I select \"Fragrance\" from home page",
+            "result": {
+              "status": "passed",
+              "duration": 468000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "I have displayed with \"9\" products to select",
+            "result": {
+              "status": "passed",
+              "duration": 40000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "automation-test-store-ui-validation;product-category-validation",
+        "keyword": "Scenario",
+        "line": 17,
+        "name": "Product category validation",
+        "tags": [
+          {
+            "name": "@store",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I am on Automation test store home page",
+            "result": {
+              "status": "passed",
+              "duration": 467000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "I select \"Men\" from home page",
+            "result": {
+              "status": "passed",
+              "duration": 557000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "I have displayed with \"8\" products to select",
+            "result": {
+              "status": "passed",
+              "duration": 42000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "automation-test-store-ui-validation;product-category-validation",
+        "keyword": "Scenario",
+        "line": 18,
+        "name": "Product category validation",
+        "tags": [
+          {
+            "name": "@store",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I am on Automation test store home page",
+            "result": {
+              "status": "passed",
+              "duration": 482000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "I select \"Hair Care\" from home page",
+            "result": {
+              "status": "passed",
+              "duration": 382000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "I have displayed with \"4\" products to select",
+            "result": {
+              "status": "passed",
+              "duration": 19000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "automation-test-store-ui-validation;product-category-validation",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "Product category validation",
+        "tags": [
+          {
+            "name": "@store",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I am on Automation test store home page",
+            "result": {
+              "status": "passed",
+              "duration": 465000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "I select \"Books\" from home page",
+            "result": {
+              "status": "passed",
+              "duration": 456000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "I have displayed with \"4\" products to select",
+            "result": {
+              "status": "passed",
+              "duration": 29000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "automation-test-store-ui-validation;successfully-place-a-order",
+        "keyword": "Scenario",
+        "line": 34,
+        "name": "Successfully place a order",
+        "tags": [
+          {
+            "name": "@store",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I am on Automation test store home page",
+            "result": {
+              "status": "passed",
+              "duration": 433000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 22,
+            "name": "I select \"Fragrance\" from home page",
+            "result": {
+              "status": "passed",
+              "duration": 573000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "I opened \"Beauty Eau de Parfum\" details",
+            "result": {
+              "status": "passed",
+              "duration": 537000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "I add category item to the cart",
+            "result": {
+              "status": "passed",
+              "duration": 431000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "I checkout from shopping cart",
+            "result": {
+              "status": "passed",
+              "duration": 426000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "I choose guest checkout option to continue",
+            "result": {
+              "status": "passed",
+              "duration": 398000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 27,
+            "name": "I filled details and click continue",
+            "result": {
+              "status": "passed",
+              "duration": 607000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 28,
+            "name": "I am displayed with check out confirmation details",
+            "result": {
+              "status": "passed",
+              "duration": 8000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 29,
+            "name": "I clicked confirm order",
+            "result": {
+              "status": "passed",
+              "duration": 79000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 30,
+            "name": "I see message \"YOUR ORDER HAS BEEN PROCESSED!\"",
+            "result": {
+              "status": "passed",
+              "duration": 955000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "automation-test-store-ui-validation;successfully-place-a-order",
+        "keyword": "Scenario",
+        "line": 35,
+        "name": "Successfully place a order",
+        "tags": [
+          {
+            "name": "@store",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I am on Automation test store home page",
+            "result": {
+              "status": "passed",
+              "duration": 842000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 22,
+            "name": "I select \"Makeup\" from home page",
+            "result": {
+              "status": "passed",
+              "duration": 404000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "I opened \"Viva Glam Lipstick\" details",
+            "result": {
+              "status": "passed",
+              "duration": 491000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "I add category item to the cart",
+            "result": {
+              "status": "passed",
+              "duration": 404000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 25,
+            "name": "I checkout from shopping cart",
+            "result": {
+              "status": "passed",
+              "duration": 371000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "I choose guest checkout option to continue",
+            "result": {
+              "status": "passed",
+              "duration": 444000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 27,
+            "name": "I filled details and click continue",
+            "result": {
+              "status": "passed",
+              "duration": 615000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 28,
+            "name": "I am displayed with check out confirmation details",
+            "result": {
+              "status": "passed",
+              "duration": 7000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 29,
+            "name": "I clicked confirm order",
+            "result": {
+              "status": "passed",
+              "duration": 73000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 30,
+            "name": "I see message \"YOUR ORDER HAS BEEN PROCESSED!\"",
+            "result": {
+              "status": "passed",
+              "duration": 411000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "automation-test-store-ui-validation;validate-total-amount-in-shopping-cart",
+        "keyword": "Scenario",
+        "line": 45,
+        "name": "Validate total amount in shopping cart",
+        "tags": [
+          {
+            "name": "@store",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I am on Automation test store home page",
+            "result": {
+              "status": "passed",
+              "duration": 505000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 38,
+            "name": "I select \"Skincare\" from home page",
+            "result": {
+              "status": "passed",
+              "duration": 388000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 39,
+            "name": "I added multiple items \"Creme Precieuse Nuit 50ml,Total Moisture Facial Cream,Absolue Eye Precious Cells\" to the cart",
+            "result": {
+              "status": "passed",
+              "duration": 421000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 40,
+            "name": "I am on shopping cart",
+            "result": {
+              "status": "passed",
+              "duration": 396000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 41,
+            "name": "Total amount displayed is same as \"$349.00\"",
+            "result": {
+              "status": "passed",
+              "duration": 90000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "automation-test-store-ui-validation;validate-total-amount-in-shopping-cart",
+        "keyword": "Scenario",
+        "line": 46,
+        "name": "Validate total amount in shopping cart",
+        "tags": [
+          {
+            "name": "@store",
+            "line": 1
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I am on Automation test store home page",
+            "result": {
+              "status": "passed",
+              "duration": 421000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 38,
+            "name": "I select \"Hair Care\" from home page",
+            "result": {
+              "status": "passed",
+              "duration": 381000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 39,
+            "name": "I added multiple items \"Eau Parfumee au The Vert Shampoo,Curls to straight Shampoo,Pantene Pro-V Conditioner, Classic Care\" to the cart",
+            "result": {
+              "status": "passed",
+              "duration": 555000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 40,
+            "name": "I am on shopping cart",
+            "result": {
+              "status": "passed",
+              "duration": 333000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 41,
+            "name": "Total amount displayed is same as \"$59.90\"",
+            "result": {
+              "status": "passed",
+              "duration": 87000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

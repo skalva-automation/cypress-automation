@@ -1,0 +1,6 @@
+{
+    "testFiles": "**/*.feature",
+    "baseUrl": "https://automationteststore.com",
+    "pageLoadTimeout": 20000,
+    "defaultCommandTimeout": 20000
+}
